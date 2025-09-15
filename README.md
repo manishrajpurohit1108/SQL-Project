@@ -1,4 +1,4 @@
-# 🏥 Healthcare Data Analytics Project (SQL)
+# 🏥 Healthcare Data Analysis Project (SQL)
 
 ## 📌 Project Overview
 This project demonstrates the use of **SQL for Data Analytics** on a healthcare dataset. The dataset originally contained **55,000+ rows**, but for ease of use, it was trimmed to **500 rows** for loading into MySQL.  
@@ -7,7 +7,7 @@ The analysis explores **patient demographics, hospital operations, billing trend
 ---
 ## 📂 Dataset Details
 
-**Dataset Name:** Hospital / Healthcare Dataset  
+**Dataset Name:** Healthcare Dataset  
 **Source:** [Dataset](https://github.com/manishrajpurohit1108/SQL-Project/blob/main/healthcare_dataset_updated.csv) (Original dataset from [Kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset))
 
 **Columns (15 total):**  
